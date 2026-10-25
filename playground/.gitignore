@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+.play/
+.venv/
+__pycache__/
+*.py[cod]
